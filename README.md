@@ -9,22 +9,8 @@ description: >-
   Nutzung der Symbole zur Förderung globaler Bildung.
 license: https://creativecommons.org/licenses/by-sa/3.0/deed.de
 id: >-
-  https://git.rpi-virtuell.de/Comenius-Institut/fOERbico/src/branch/main/Blog/sdg-logos.md
+  https://oer.community/sdg-logos-und-oer-wie-darf-ich-sie-verwenden/
 creator:
-  - givenName: Jörg
-    familyName: Lohrer
-    type: Person
-    affiliation:
-      name: Comenius-Institut
-      id: https://ror.org/025e8aw85
-      type: Organization
-  - givenName: Gina
-    familyName: Buchwald-Chassée
-    type: Person
-    affiliation:
-      name: Comenius-Institut
-      id: https://ror.org/025e8aw85
-      type: Organization
   - givenName: Laura
     familyName: Mößle
     id: https://orcid.org/0000-0001-5255-8063
@@ -40,12 +26,25 @@ creator:
       name: Friedrich-Alexander-Universität Erlangen-Nürnberg
       id: https://ror.org/00f7hpc57
       type: Organization
+  - givenName: Jörg
+    familyName: Lohrer
+    type: Person
+    affiliation:
+      name: Comenius-Institut
+      id: https://ror.org/025e8aw85
+      type: Organization
+  - givenName: Gina
+    familyName: Buchwald-Chassée
+    type: Person
+    affiliation:
+      name: Comenius-Institut
+      id: https://ror.org/025e8aw85
+      type: Organization
 keywords:
   - SDG
   - Sustainable Developtment Goals
   - OER
   - Creative Commons
-  - ''
 inLanguage:
   - de
 about:
